@@ -1,0 +1,9 @@
+{
+	"name": "factoryazurejai",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e75def6-121d-41cd-b597-6fffd9922a06",
+		"tenantId": "6f8c3d97-2824-4cad-b75f-9ff437ac7b15"
+	}
+}
